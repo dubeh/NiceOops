@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  font-size: 40px;
+  align-content:center;
+}
+table {
+    border-width: 2px;
+    border-color: black;
+    color: dimgray;
+    border-style: solid;
+    text-align: right;
+    font-family: cursive;
+    font-weight: bold;
+    align-content:center;
+}
+
+.centre {
+    display: block;
+    margin-left: 70%;
+    margin-right: auto;
+    width: 50%;
+}

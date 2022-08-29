@@ -13,19 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterFirstApp", "..\Better
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopsBL", "..\OopsBL\OopsBL.csproj", "{E8F9B6B6-6EEE-4983-A0B9-8DB53B914CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeShop", "..\ShapeShop\ShapeShop.csproj", "{6E15E378-7C28-47A3-8562-16FAC6448F67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeShop", "..\ShapeShop\ShapeShop.csproj", "{6E15E378-7C28-47A3-8562-16FAC6448F67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "..\Encapsulation\Encapsulation.csproj", "{5741B7DD-8CF6-40B1-BF94-6315393A04C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "..\Encapsulation\Encapsulation.csproj", "{5741B7DD-8CF6-40B1-BF94-6315393A04C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "..\Collections\Collections.csproj", "{6D48D502-CE64-4409-BEE2-A921A0606C29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "..\Collections\Collections.csproj", "{6D48D502-CE64-4409-BEE2-A921A0606C29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{3CDAA895-386A-4862-B476-979858123C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{3CDAA895-386A-4862-B476-979858123C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "..\Delegates\Delegates.csproj", "{F14AFFB8-0FBA-43F7-BC1E-B849F54B058C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "..\Delegates\Delegates.csproj", "{F14AFFB8-0FBA-43F7-BC1E-B849F54B058C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEvents", "..\ForEvents\ForEvents.csproj", "{BFFCEAA3-0431-4CE4-AFA9-63CF8F4E848B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEvents", "..\ForEvents\ForEvents.csproj", "{BFFCEAA3-0431-4CE4-AFA9-63CF8F4E848B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "..\Lambdas\Lambdas.csproj", "{4A764824-98E9-4E98-AF85-740762935140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambdas", "..\Lambdas\Lambdas.csproj", "{4A764824-98E9-4E98-AF85-740762935140}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VbApp", "..\VbApp\VbApp.vbproj", "{72D9CC22-0DF8-40E4-A50E-B43B792CC1CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{4A764824-98E9-4E98-AF85-740762935140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A764824-98E9-4E98-AF85-740762935140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A764824-98E9-4E98-AF85-740762935140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D9CC22-0DF8-40E4-A50E-B43B792CC1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D9CC22-0DF8-40E4-A50E-B43B792CC1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D9CC22-0DF8-40E4-A50E-B43B792CC1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D9CC22-0DF8-40E4-A50E-B43B792CC1CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
